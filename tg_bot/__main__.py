@@ -19,24 +19,20 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello {}, my name is {}! I am an admin bot managed by [vaishnav](tg://user?id={}). I am one of the most popular group managers.
-
+Hey {}, my name is {}! I am an filterbot managed by [vaishnav](tg://user?id={}). I am one of the most popular group managers.
 Join my group to ask doubts regarding me.
-
 I am created using python3 with the assistance of SQL database.
-
-Just add me to your group and mke me admin.
-
+Just add me to your group and make me admin.
 Use my commands to operate me.
-
 Hit /help to know about my commands
 
 """
 
 HELP_STRINGS = """
-Here is the help menu for *{}*.
-This is a modular group management bot with a few extras! Have a look at the following for an idea of some of \
-the things This bot can help you with.
+Help menu for *{}*.
+
+This is a filter bot with a few e! Have a look at the following for an idea of some of \
+the things bot can help you with.
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
@@ -49,8 +45,9 @@ the things This bot can help you with.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """no donation
-needed"""
+DONATE_STRING = """
+Currently no donation needed
+"""
 
 IMPORTED = {}
 MIGRATEABLE = []
