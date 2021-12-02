@@ -1,5 +1,5 @@
-# kURUP❤
-A modular telegram Python bot running on python3 with an sqlalchemy database.
+# FILTER BOT❤
+A telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
@@ -12,7 +12,7 @@ I'll also help when a database schema changes, and some table column needs to be
 
 Join the [Update channel](https://t.me/thugbots) to get instant updates regarding my new features!
 
-Alternatively, [find me on telegram](https://t.me/simplefilterbot)! (Keep all support questions in the support chat, where more people can help you.)
+[find owner on telegram](https://t.me/vaishnavgr8)! (Keep all support questions in the support chat, where more people can help you.)
 
 To deploy me on heroku, use below button:
 
